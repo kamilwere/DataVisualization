@@ -1,0 +1,167 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\dev\\DV_animated_graph\\AnimatedGraph\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0EB6996-3505-603D-D36C-E7DADC7730DA}|Assembly-CSharp.csproj|c:\\dev\\dv_animated_graph\\animatedgraph\\assets\\camerasteering.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0EB6996-3505-603D-D36C-E7DADC7730DA}|Assembly-CSharp.csproj|solutionrelative:assets\\camerasteering.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0EB6996-3505-603D-D36C-E7DADC7730DA}|Assembly-CSharp.csproj|C:\\dev\\DV_animated_graph\\AnimatedGraph\\assets\\cameramotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0EB6996-3505-603D-D36C-E7DADC7730DA}|Assembly-CSharp.csproj|solutionrelative:assets\\cameramotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0EB6996-3505-603D-D36C-E7DADC7730DA}|Assembly-CSharp.csproj|c:\\dev\\dv_animated_graph\\animatedgraph\\assets\\defineseries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0EB6996-3505-603D-D36C-E7DADC7730DA}|Assembly-CSharp.csproj|solutionrelative:assets\\defineseries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0EB6996-3505-603D-D36C-E7DADC7730DA}|Assembly-CSharp.csproj|C:\\dev\\DV_animated_graph\\AnimatedGraph\\assets\\serieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0EB6996-3505-603D-D36C-E7DADC7730DA}|Assembly-CSharp.csproj|solutionrelative:assets\\serieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0EB6996-3505-603D-D36C-E7DADC7730DA}|Assembly-CSharp.csproj|C:\\dev\\DV_animated_graph\\AnimatedGraph\\assets\\readcsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0EB6996-3505-603D-D36C-E7DADC7730DA}|Assembly-CSharp.csproj|solutionrelative:assets\\readcsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0EB6996-3505-603D-D36C-E7DADC7730DA}|Assembly-CSharp.csproj|C:\\dev\\DV_animated_graph\\AnimatedGraph\\assets\\graphbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0EB6996-3505-603D-D36C-E7DADC7730DA}|Assembly-CSharp.csproj|solutionrelative:assets\\graphbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0EB6996-3505-603D-D36C-E7DADC7730DA}|Assembly-CSharp.csproj|C:\\dev\\DV_animated_graph\\AnimatedGraph\\assets\\originparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0EB6996-3505-603D-D36C-E7DADC7730DA}|Assembly-CSharp.csproj|solutionrelative:assets\\originparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0EB6996-3505-603D-D36C-E7DADC7730DA}|Assembly-CSharp.csproj|C:\\dev\\DV_animated_graph\\AnimatedGraph\\assets\\axisparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0EB6996-3505-603D-D36C-E7DADC7730DA}|Assembly-CSharp.csproj|solutionrelative:assets\\axisparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0EB6996-3505-603D-D36C-E7DADC7730DA}|Assembly-CSharp.csproj|C:\\dev\\DV_animated_graph\\AnimatedGraph\\assets\\conegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0EB6996-3505-603D-D36C-E7DADC7730DA}|Assembly-CSharp.csproj|solutionrelative:assets\\conegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CameraSteering.cs",
+              "DocumentMoniker": "C:\\dev\\DV_animated_graph\\AnimatedGraph\\Assets\\CameraSteering.cs",
+              "RelativeDocumentMoniker": "Assets\\CameraSteering.cs",
+              "ToolTip": "C:\\dev\\DV_animated_graph\\AnimatedGraph\\Assets\\CameraSteering.cs",
+              "RelativeToolTip": "Assets\\CameraSteering.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD4AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T19:00:09.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CameraMotion.cs",
+              "DocumentMoniker": "C:\\dev\\DV_animated_graph\\AnimatedGraph\\Assets\\CameraMotion.cs",
+              "RelativeDocumentMoniker": "Assets\\CameraMotion.cs",
+              "ToolTip": "C:\\dev\\DV_animated_graph\\AnimatedGraph\\Assets\\CameraMotion.cs",
+              "RelativeToolTip": "Assets\\CameraMotion.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwB0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T13:39:03.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReadCSV.cs",
+              "DocumentMoniker": "C:\\dev\\DV_animated_graph\\AnimatedGraph\\Assets\\ReadCSV.cs",
+              "RelativeDocumentMoniker": "Assets\\ReadCSV.cs",
+              "ToolTip": "C:\\dev\\DV_animated_graph\\AnimatedGraph\\Assets\\ReadCSV.cs",
+              "RelativeToolTip": "Assets\\ReadCSV.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAswFEAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T17:03:46.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DefineSeries.cs",
+              "DocumentMoniker": "C:\\dev\\DV_animated_graph\\AnimatedGraph\\Assets\\DefineSeries.cs",
+              "RelativeDocumentMoniker": "Assets\\DefineSeries.cs",
+              "ToolTip": "C:\\dev\\DV_animated_graph\\AnimatedGraph\\Assets\\DefineSeries.cs",
+              "RelativeToolTip": "Assets\\DefineSeries.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T13:23:59.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SerieService.cs",
+              "DocumentMoniker": "C:\\dev\\DV_animated_graph\\AnimatedGraph\\Assets\\SerieService.cs",
+              "RelativeDocumentMoniker": "Assets\\SerieService.cs",
+              "ToolTip": "C:\\dev\\DV_animated_graph\\AnimatedGraph\\Assets\\SerieService.cs",
+              "RelativeToolTip": "Assets\\SerieService.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAwwD0AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T12:18:18.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OriginParameters.cs",
+              "DocumentMoniker": "C:\\dev\\DV_animated_graph\\AnimatedGraph\\Assets\\OriginParameters.cs",
+              "RelativeDocumentMoniker": "Assets\\OriginParameters.cs",
+              "ToolTip": "C:\\dev\\DV_animated_graph\\AnimatedGraph\\Assets\\OriginParameters.cs",
+              "RelativeToolTip": "Assets\\OriginParameters.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAowEgAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T10:45:00.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AxisParameters.cs",
+              "DocumentMoniker": "C:\\dev\\DV_animated_graph\\AnimatedGraph\\Assets\\AxisParameters.cs",
+              "RelativeDocumentMoniker": "Assets\\AxisParameters.cs",
+              "ToolTip": "C:\\dev\\DV_animated_graph\\AnimatedGraph\\Assets\\AxisParameters.cs",
+              "RelativeToolTip": "Assets\\AxisParameters.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAqwCQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T10:10:45.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ConeGenerator.cs",
+              "DocumentMoniker": "C:\\dev\\DV_animated_graph\\AnimatedGraph\\Assets\\ConeGenerator.cs",
+              "RelativeDocumentMoniker": "Assets\\ConeGenerator.cs",
+              "ToolTip": "C:\\dev\\DV_animated_graph\\AnimatedGraph\\Assets\\ConeGenerator.cs",
+              "RelativeToolTip": "Assets\\ConeGenerator.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAowDAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T08:41:17.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GraphBar.cs",
+              "DocumentMoniker": "C:\\dev\\DV_animated_graph\\AnimatedGraph\\Assets\\GraphBar.cs",
+              "RelativeDocumentMoniker": "Assets\\GraphBar.cs",
+              "ToolTip": "C:\\dev\\DV_animated_graph\\AnimatedGraph\\Assets\\GraphBar.cs",
+              "RelativeToolTip": "Assets\\GraphBar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T08:21:31.742Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
